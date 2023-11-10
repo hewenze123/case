@@ -4,6 +4,7 @@ import pyautogui
 class BasePage:
     def __init__(self):
         self.pyautogui = pyautogui
+
     def move_and_click(self, args):
         self.pyautogui.moveTo(args)
         self.pyautogui.click()
