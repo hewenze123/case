@@ -35,7 +35,6 @@ class Step_campus(BasePage):
                     image = fp.read()
                 result = orc.classification(image)
                 shurukuang.send_keys(result)
-                sleep(2)
                 self.move_and_click(Point.dlc)
 
 
