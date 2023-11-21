@@ -2,7 +2,6 @@ from time import sleep
 import ddddocr
 from selenium.common import NoSuchElementException
 from page.test_do import BasePage
-from point import point
 from point.point import Point
 
 
@@ -11,8 +10,8 @@ class Step_campus(BasePage):
         self.open_browser()
         self.get_url("https://k12school.xzxyun.com/campus-mng/login?")
         self.driver.maximize_window()
-        self.move_and_type(point.Point.dla, '17310311997')
-        self.move_and_type(point.Point.dlb, 'Aa123456')
+        self.move_and_type(Point.dla, '17310311997')
+        self.move_and_type(Point.dlb, 'Aa123456')
         imgCode = self.driver.find_element("xpath", '//*[@id="pane-0"]/form/div[3]/img')
         shurukuang = self.driver.find_element("xpath", '//*[@id="pane-0"]/form/div[3]/div/div/div[1]/input')
         imgCode.screenshot('codee.png')
@@ -37,7 +36,7 @@ class Step_campus(BasePage):
                 result = orc.classification(image)
                 shurukuang.send_keys(result)
                 sleep(2)
-                self.move_and_click(point.Point.dlc)
+                self.move_and_click(Point.dlc)
 
 
 if __name__ == '__main__':

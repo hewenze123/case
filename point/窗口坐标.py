@@ -9,11 +9,13 @@ root.geometry("300x100")
 label = tk.Label(root, text="")
 label.pack()
 
+
 # 更新鼠标坐标的函数
 def update_coordinates():
     x, y = pyautogui.position()
     label.config(text=f"鼠标坐标：X={x}, Y={y}")
     root.after(100, update_coordinates)
+
 
 # 启动更新坐标的函数
 update_coordinates()
