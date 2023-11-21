@@ -2,15 +2,19 @@ from PIL import Image, ImageGrab
 import pyautogui
 import cv2
 import numpy as np
+from selenium import webdriver
+
+
 class BasePage:
     def __init__(self):
+        self.driver = webdriver.Chrome()
         self.pyautogui = pyautogui
 
-    def move_and_click(self, args):
+    def move_and_click(self, args):  # 点击
         self.pyautogui.moveTo(args)
         self.pyautogui.click()
 
-    def move_and_type(self, args, text):
+    def move_and_type(self, args, text):    # 输入
         self.pyautogui.moveTo(args)
         self.pyautogui.click()
         self.pyautogui.typewrite(text)
@@ -25,6 +29,7 @@ class BasePage:
             except Exception as e:
                 print(f"加载图像时出错: {e}")
                 return None
+
         def capture_screenshot():
             screenshot = ImageGrab.grab()
             screenshot = np.array(screenshot)
@@ -61,6 +66,7 @@ class BasePage:
             except Exception as e:
                 print(f"加载图像时出错: {e}")
                 return None
+
         def capture_screenshot():
             screenshot = ImageGrab.grab()
             screenshot = np.array(screenshot)
@@ -87,3 +93,23 @@ class BasePage:
             print(f"目标图像大小: {target_image.shape}")
             print(f"截图大小: {screenshot.shape}")
 
+    def open_browser(self):
+        self.driver.implicitly_wait(1)
+
+    def close_browser(self):
+        self.driver.close()
+
+    def get_url(self, url):
+        self.driver.get(url)
+
+    def locator_element(self, args):
+        return self.driver.find_element(*args)
+
+    def send_keys(self, args, value):
+        self.locator_element(args).send_keys(value)
+
+    def clear(self, args):
+        self.locator_element(args).clear()
+
+    def click(self, args):
+        self.locator_element(args).click()
