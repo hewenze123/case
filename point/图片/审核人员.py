@@ -4,7 +4,7 @@ import os
 
 
 time.sleep(2)
-image_path = "图片/审核成功.png"
+image_path = "审核成功.png"
 # 定义操作序列
 actions = [
     {"location": (475, 315), "wait_time": 1},  # 全选

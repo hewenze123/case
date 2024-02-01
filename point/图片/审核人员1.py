@@ -4,7 +4,7 @@ import json
 
 time.sleep(2)
 # 从JSON文件读取操作序列
-with open('point/point.json', 'r') as file:
+with open('../point.json', 'r') as file:
     actions = json.load(file)
 
 # 循环10次
