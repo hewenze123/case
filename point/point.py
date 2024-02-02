@@ -2,7 +2,7 @@ import json
 
 
 class Point:
-    with open('/Users/case/point/point.json', 'r') as file:
+    with open('/1/point.json', 'r') as file:
         f = json.load(file)
 
     kca = f['课程']['添加']

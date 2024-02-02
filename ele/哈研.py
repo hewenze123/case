@@ -14,29 +14,29 @@ class EleXuexiaoguanliyuan:  # 学校管理员
 
 class EleYemian:  # iframe/页面
     iframe_tongzhigonggao = ('xpath',  # 通知公告
-                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=homeSchool/notice')]")
+                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=homeSchool/notice')]")
     iframe_zuoyepindao = ('xpath',  # 作业频道
-                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=homeSchool/homework')]")
+                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=homeSchool/homework')]")
     iframe_mobanleixing = ('xpath',  # 模版类型
-                           "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=templateManagement"
+                           "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=templateManagement"
                            "/templateType')]")
     iframe_mobanzhongxin = ('xpath',  # 模版中心
-                            "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=templateManagement"
+                            "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=templateManagement"
                             "/templateCenter')]")
     iframe_mobanpeizhi = ('xpath',  # 模版配置
-                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=templateManagement"
+                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=templateManagement"
                           "/templateSettingList')]")
 
     iframe_shujuguanli = ('xpath',  # 数据管理
-                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=dataManagement/index')]")
+                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=dataManagement/index')]")
     iframe_jueseguanli = ('xpath',  # 角色管理
-                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=organization"
+                          "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=organization"
                           "/roleManagement')]")
     iframe_yingyongguanli = ('xpath',  # 应用管理
-                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=applicationManagement"
+                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=applicationManagement"
                              "/index')]")
     iframe_chengyuanbumen = ('xpath',  # 成员部门
-                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?page=organization"
+                             "//iframe[contains(@src, '/api/basic/account/login-by-xzxyun?1=organization"
                              "/departmentMember')]")
 
     jiaxiaohudong = ('xpath', "//span[contains(text(),'家校互动管理')]")  # 家校互动

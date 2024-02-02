@@ -99,7 +99,7 @@ class BasePage:
         img_code.screenshot('codee.png')
 
         # 将文件路径声明为一个常量，以便在多个地方使用
-        image_path = '/Users/case/run/codee.png'
+        image_path = '/1/codee.png'
 
         orc = ddddocr.DdddOcr()
         with open(image_path, 'rb') as fp:
