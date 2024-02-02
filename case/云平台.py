@@ -5,7 +5,7 @@ from page.test_do import BasePage
 from selenium.common import NoSuchElementException
 
 
-class TestYunpingtai(BasePage):  # 建议使用驼峰命名法，类名应该以大写字母开头啊
+class TestYunpingtai(BasePage):  # 建议使用驼峰命名法，类名应该以大写字母开头
     def test_guanliyuanyujuese(self):
         self.open_browser(EleDenglu.ceshi_url)
         self.move_and_type(Point.dla, '17310311997')
