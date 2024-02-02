@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c1e4212-77fd-4700-a3fc-600fcc55cb87" name="更改" comment="3">
-      <change afterPath="$PROJECT_DIR$/case/云平台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ele/云平台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ele/哈研.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/case1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/codee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/test_case.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/test_do.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/test_do.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/point.json" beforeDir="false" afterPath="$PROJECT_DIR$/point/point.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/test_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run/test_run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图片/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/point/图片/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图片/审核成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/point/图片/审核成功.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/审核人员.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/图片/审核人员.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/审核人员1.py" beforeDir="false" afterPath="$PROJECT_DIR$/point/图片/审核人员1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/云平台.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/云平台.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +23,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;author&quot;: &quot;hewenze123&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;author&quot;: &quot;hewenze123&quot;
-  }
-}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -65,31 +34,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
   <component name="ProjectId" id="2YFiv7zn0BxYw8QkW2cuKZlVLE7" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/point" />
@@ -134,7 +88,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_run.Test_SaaS.test_guanliyuanyujuese 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="test_run.Test_SaaS.test_guanliyuanyujuese 的 pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="case1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +141,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.test_run.Test_SaaS.test_guanliyuanyujuese 的 pytest" />
         <item itemvalue="Python 测试.pytest (test_run.py 内)" />
         <item itemvalue="Python 测试.test_run.Test_SaaS.test_xuexiaoguanliyuan 的 pytest" />
         <item itemvalue="Python 测试.test_run.Test_SaaS 的 pytest" />
@@ -288,17 +241,5 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <option name="LAST_COMMIT_MESSAGE" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/case$test_run_Test_SaaS_test_xuexiaoguanliyuan__pytest.coverage" NAME="test_run.Test_SaaS.test_xuexiaoguanliyuan 的 pytest 覆盖结果" MODIFIED="1704187786172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_a_test_b__pytest.coverage" NAME="test_run.Test_a.test_b 的 pytest 覆盖结果" MODIFIED="1702019365075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_a_test_yunpingtau__pytest.coverage" NAME="test_run.Test_a.test_yunpingtau 的 pytest 覆盖结果" MODIFIED="1704185966103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$.coverage" NAME="打印坐标 覆盖结果" MODIFIED="1701251302317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/point" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_SaaS__pytest.coverage" NAME="test_run.Test_SaaS 的 pytest 覆盖结果" MODIFIED="1704187605904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$pytest__test_run_py__.coverage" NAME="pytest (test_run.py 内) 覆盖结果" MODIFIED="1704268680538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_SaaS_test_guanliyuanyujuese__pytest.coverage" NAME="test_run.Test_SaaS.test_guanliyuanyujuese 的 pytest 覆盖结果" MODIFIED="1704269050911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run.coverage" NAME="test_run 覆盖结果" MODIFIED="1701055789399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_a_test_jiaxiaohudong__pytest.coverage" NAME="test_run.Test_a.test_jiaxiaohudong 的 pytest 覆盖结果" MODIFIED="1702277561691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
-    <SUITE FILE_PATH="coverage/case$test_run_Test_a_test_shenpixitong__pytest.coverage" NAME="test_run.Test_a.test_shenpixitong 的 pytest 覆盖结果" MODIFIED="1704187078634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run" />
   </component>
 </project>
