@@ -1,0 +1,1520 @@
+1704165248791	geckodriver	INFO	Listening on 127.0.0.1:50527
+1704165249313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilestAmIA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704165249826	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704165250004	Marionette	INFO	Listening on port 50535
+WebDriver BiDi listening on ws://127.0.0.1:50528
+Read port: 50535
+1704165250172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50528/devtools/browser/8a931df4-089e-47c6-99d4-ee14758e8596
+2024-01-02 11:14:14.333 firefox-bin[3074:49979] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704165258805	Marionette	INFO	Stopped listening on port 50535
+1704165368945	geckodriver	INFO	Listening on 127.0.0.1:50607
+1704165369462	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilevW6PA6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704165369958	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704165370265	Marionette	INFO	Listening on port 50613
+WebDriver BiDi listening on ws://127.0.0.1:50608
+Read port: 50613
+1704165370448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50608/devtools/browser/0f31d1fc-8293-45c8-816a-9ca3360971ae
+2024-01-02 11:16:13.681 firefox-bin[3167:52074] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704165399998	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704173173286	geckodriver	INFO	Listening on 127.0.0.1:51368
+1704173173793	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileIusPgm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704173174355	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704173174669	Marionette	INFO	Listening on port 51374
+WebDriver BiDi listening on ws://127.0.0.1:51369
+Read port: 51374
+1704173174930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51369/devtools/browser/5c2ed6c8-0fd6-49f1-ac1b-a7944c24d71a
+2024-01-02 13:26:17.999 firefox-bin[4448:78453] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704173204376	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js, line 495: Script terminated by timeout at:
+fa.tokenize@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:18538
+fa@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:7085
+a.find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:509:3686
+find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:24109
+a.fn.find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:509:8931
+$.fn.i18n/<@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:775:15
+each@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:2881
+each@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:846
+$.fn.i18n@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:755:17
+e.onreadystatechange@https://ykf-webchat.7moor.com/view/moor_chat.html?v=20231226&clientId=100000000648&urlTitle=%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0&fromUrl=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2F&serviceStates=1&accessId=2ef0b3b0-4308-11ee-98c8-c503d4f0b62f&styleColor=19CAA6&peers=%5B%5D&sessionLastToPeer=&otherParams=&seoSource=%E7%AB%99%E5%86%85&seoKeywords=&xstKeywords=&companyName=&seoUrl=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2Fjump%3Fcode%3D4d237a6904f341ec8822774f8ffad15b%26fromType%3Dhome&language=zh-CN&href=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2F&priority=false&showAnnexUrl=false&unionAccessId=undefined&hideImgUpload=false&hideFileUpload=false&accessAfterMessage=undefined&customColor=undefined&videoDownloadBtn=false:5:46924
+
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1704173640048	geckodriver	INFO	Listening on 127.0.0.1:51574
+1704173640569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile9C0c13"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704173641177	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704173641507	Marionette	INFO	Listening on port 51581
+WebDriver BiDi listening on ws://127.0.0.1:51575
+Read port: 51581
+1704173641754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51575/devtools/browser/2887d4e1-8564-45c6-aa72-b9970c0d534e
+2024-01-02 13:34:04.688 firefox-bin[4727:85722] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704173671225	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704173693368	Marionette	INFO	Stopped listening on port 51581
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1704173699683	geckodriver	INFO	Listening on 127.0.0.1:51651
+1704173700191	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile73lneK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704173700781	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704173700959	Marionette	INFO	Listening on port 51657
+WebDriver BiDi listening on ws://127.0.0.1:51652
+Read port: 51657
+1704173701169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51652/devtools/browser/c603ddc7-8edb-44e1-ab08-1511a5717f0a
+2024-01-02 13:35:05.894 firefox-bin[4769:87295] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704173730827	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704173765893	geckodriver	INFO	Listening on 127.0.0.1:51796
+1704173766411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilePHqb09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704173767056	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704173767322	Marionette	INFO	Listening on port 51802
+WebDriver BiDi listening on ws://127.0.0.1:51797
+Read port: 51802
+1704173767410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51797/devtools/browser/571f5694-1b09-4f11-937e-ffff30d9b7ed
+2024-01-02 13:36:10.465 firefox-bin[4821:88789] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704173797084	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+1704174061498	geckodriver	INFO	Listening on 127.0.0.1:51974
+1704174062017	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile1OeMDr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704174062722	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704174063004	Marionette	INFO	Listening on port 51980
+WebDriver BiDi listening on ws://127.0.0.1:51975
+Read port: 51980
+1704174063210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51975/devtools/browser/9896fa5f-93a2-4924-8f54-75b7dc3a216a
+2024-01-02 13:41:06.664 firefox-bin[4964:93726] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2419))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704174092763	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704177397735	geckodriver	INFO	Listening on 127.0.0.1:52834
+1704177398250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileXosm2L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704177400046	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704177400469	Marionette	INFO	Listening on port 52840
+WebDriver BiDi listening on ws://127.0.0.1:52835
+Read port: 52840
+1704177400717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52835/devtools/browser/53b3abf3-3a44-4504-9f95-04cff709657d
+2024-01-02 14:36:44.348 firefox-bin[6180:116777] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704177430097	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704177446710	geckodriver	INFO	Listening on 127.0.0.1:52954
+1704177447229	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiletR8Eia"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704177448058	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704177448369	Marionette	INFO	Listening on port 52960
+WebDriver BiDi listening on ws://127.0.0.1:52955
+Read port: 52960
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704177448594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52955/devtools/browser/3ff6a4f1-ae44-4411-ba74-f8d7b9f1049b
+2024-01-02 14:37:31.835 firefox-bin[6230:118087] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2419))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704177478102	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704177531402	geckodriver	INFO	Listening on 127.0.0.1:53085
+1704177531999	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileeAzX1D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704177532988	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704177533360	Marionette	INFO	Listening on port 53091
+WebDriver BiDi listening on ws://127.0.0.1:53086
+Read port: 53091
+1704177533591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53086/devtools/browser/da1cb343-549a-4395-92b0-c6fc0a739f1e
+2024-01-02 14:38:56.965 firefox-bin[6285:120091] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704177563034	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+1704178326153	geckodriver	INFO	Listening on 127.0.0.1:53360
+1704178326671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilebrnMfh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704178327967	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704178328231	Marionette	INFO	Listening on port 53367
+WebDriver BiDi listening on ws://127.0.0.1:53361
+Read port: 53367
+1704178328470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53361/devtools/browser/dfdb1878-ae21-4bda-93a3-2b4fa9f7ee6b
+2024-01-02 14:52:12.283 firefox-bin[6566:126474] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704178358011	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704178416305	geckodriver	INFO	Listening on 127.0.0.1:53480
+1704178416824	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilekzgST8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704178418166	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704178418643	Marionette	INFO	Listening on port 53486
+WebDriver BiDi listening on ws://127.0.0.1:53481
+Read port: 53486
+1704178418893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53481/devtools/browser/ac805985-4fb9-45ea-903b-3e919ac39491
+2024-01-02 14:53:42.127 firefox-bin[6633:128443] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 922))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:922:29)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704178448190	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704178468541	geckodriver	INFO	Listening on 127.0.0.1:53611
+1704178469059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileYXjlX6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704178469856	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704178470200	Marionette	INFO	Listening on port 53617
+WebDriver BiDi listening on ws://127.0.0.1:53612
+Read port: 53617
+1704178470438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53612/devtools/browser/211243e6-0507-42f2-9d64-48ca93877385
+2024-01-02 14:54:34.116 firefox-bin[6680:129976] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2419))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704178499882	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704178562125	geckodriver	INFO	Listening on 127.0.0.1:53756
+1704178562643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileH260eC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704178564288	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704178564773	Marionette	INFO	Listening on port 53762
+WebDriver BiDi listening on ws://127.0.0.1:53757
+Read port: 53762
+1704178565000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53757/devtools/browser/ba61b06e-bedc-4bdc-82c4-74065df8fb4e
+2024-01-02 14:56:08.504 firefox-bin[6755:132152] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704178594380	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+2024-01-02 14:58:04.094 firefox-bin[6755:132152] +[CATransaction synchronize] called within transaction
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2419))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450951/pagestyle21, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+1704183214590	geckodriver	INFO	Listening on 127.0.0.1:55037
+1704183215109	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilePpNble"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704183216908	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704183217424	Marionette	INFO	Listening on port 55043
+Read port: 55043
+WebDriver BiDi listening on ws://127.0.0.1:55038
+1704183217566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55038/devtools/browser/e696778b-5ca8-4ada-a1d4-9c4a1db79691
+2024-01-02 16:13:43.016 firefox-bin[8586:168831] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704183246945	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704183373490	geckodriver	INFO	Listening on 127.0.0.1:55161
+1704183374007	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilehPnuF9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704183374806	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704183375161	Marionette	INFO	Listening on port 55167
+WebDriver BiDi listening on ws://127.0.0.1:55162
+Read port: 55167
+1704183375407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55162/devtools/browser/a2a9cdaf-9879-412e-afa1-47f666b4cf05
+2024-01-02 16:16:18.805 firefox-bin[8698:172635] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704183404833	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704183696098	geckodriver	INFO	Listening on 127.0.0.1:55355
+1704183696740	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileNUTcI4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704183699038	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704183699969	Marionette	INFO	Listening on port 55361
+WebDriver BiDi listening on ws://127.0.0.1:55356
+Read port: 55361
+1704183700182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55356/devtools/browser/eff532f0-2d27-4e07-abf7-87530c0ae227
+2024-01-02 16:21:44.225 firefox-bin[8956:179785] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704183729079	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704183754110	geckodriver	INFO	Listening on 127.0.0.1:55502
+1704183754624	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilewX5nBY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704183755988	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704183756321	Marionette	INFO	Listening on port 55508
+WebDriver BiDi listening on ws://127.0.0.1:55503
+Read port: 55508
+1704183756575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55503/devtools/browser/592d61cf-06da-4f8a-80b7-44ded23ef3b5
+2024-01-02 16:22:40.201 firefox-bin[9051:182202] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Could not get the list of font families" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450951/pagestyle21, type getUsedFontFaces failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetUsedFontFamilies/</<@resource://devtools/client/inspector/rules/models/element-style.js:203:46\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704183786027	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript error: https://k12wx.xzxyun.com/campus-mng/js/chunk-7378befc.9dffdbd5.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://k12wx.xzxyun.com/campus-mng/js/chunk-7378befc.9dffdbd5.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1704184816760	geckodriver	INFO	Listening on 127.0.0.1:55885
+1704184817277	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilegxqQen"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704184820095	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704184821262	Marionette	INFO	Listening on port 55892
+Read port: 55892
+WebDriver BiDi listening on ws://127.0.0.1:55886
+1704184821342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55886/devtools/browser/678e5864-c791-4ebd-b20d-54684e514567
+2024-01-02 16:40:25.707 firefox-bin[9895:200100] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js, line 495: Script terminated by timeout at:
+fa@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:6568
+a.find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:509:3686
+find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:24109
+a.fn.find@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:509:8931
+n.fn.init@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:24676
+a.fn.init@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:509:3137
+n@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:495:406
+@https://ykf-webchat.7moor.com/javascripts/7moorChat-01cd707c06.js?v=20231226:1:30643
+
+1704184850144	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704184862343	geckodriver	INFO	Listening on 127.0.0.1:55984
+1704184862862	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile1Iic3s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704184864393	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704184865224	Marionette	INFO	Listening on port 55990
+WebDriver BiDi listening on ws://127.0.0.1:55985
+Read port: 55990
+1704184865496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55985/devtools/browser/17959275-3128-48d0-a412-2c9612c803a9
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+2024-01-02 16:41:08.906 firefox-bin[9956:201774] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704184894426	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704184936031	geckodriver	INFO	Listening on 127.0.0.1:56121
+1704184936551	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiledLP85P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704184937598	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704184938010	Marionette	INFO	Listening on port 56127
+Read port: 56127
+WebDriver BiDi listening on ws://127.0.0.1:56122
+1704184938098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56122/devtools/browser/e2cb6b73-45fb-4770-9515-db2af3fd394e
+2024-01-02 16:42:21.888 firefox-bin[10063:204217] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704184958562	Marionette	INFO	Stopped listening on port 56127
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1704184965350	geckodriver	INFO	Listening on 127.0.0.1:56195
+1704184965850	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileKNnrKo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704184969047	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704184969954	Marionette	INFO	Listening on port 56201
+WebDriver BiDi listening on ws://127.0.0.1:56196
+Read port: 56201
+1704184970220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56196/devtools/browser/602d27d8-efe9-4526-96a0-379204685111
+2024-01-02 16:42:54.314 firefox-bin[10158:206071] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704184999094	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185075220	geckodriver	INFO	Listening on 127.0.0.1:56352
+1704185075740	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileFNLtyo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185077161	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185077521	Marionette	INFO	Listening on port 56360
+Read port: 56360
+WebDriver BiDi listening on ws://127.0.0.1:56353
+1704185077609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56353/devtools/browser/cd8152ee-3e12-43a6-a69f-0e5f3232b944
+2024-01-02 16:44:41.213 firefox-bin[10299:209594] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185107199	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185187069	geckodriver	INFO	Listening on 127.0.0.1:56526
+1704185187579	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileDTSQu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185189413	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185189789	Marionette	INFO	Listening on port 56533
+WebDriver BiDi listening on ws://127.0.0.1:56527
+Read port: 56533
+1704185189926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56527/devtools/browser/4f081ae6-86f3-4616-be8d-ec9b493072da
+2024-01-02 16:46:33.746 firefox-bin[10461:213532] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704185219463	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185487838	geckodriver	INFO	Listening on 127.0.0.1:56723
+1704185488350	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileAqAU0A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185489939	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185490308	Marionette	INFO	Listening on port 56729
+WebDriver BiDi listening on ws://127.0.0.1:56724
+Read port: 56729
+1704185490513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56724/devtools/browser/2fb56bb9-733e-46e7-9834-b33423321b78
+2024-01-02 16:51:33.840 firefox-bin[10609:218990] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2419))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185520199	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185571993	geckodriver	INFO	Listening on 127.0.0.1:56853
+1704185572513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileeCco4I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185573896	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185574232	Marionette	INFO	Listening on port 56859
+Read port: 56859
+WebDriver BiDi listening on ws://127.0.0.1:56854
+1704185574307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56854/devtools/browser/0427fc03-409d-4cdd-ade6-d54d6cee60bc
+2024-01-02 16:52:58.255 firefox-bin[10685:221252] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 922))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:922:29)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185603932	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185734022	geckodriver	INFO	Listening on 127.0.0.1:56985
+1704185734531	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilevrrZzB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185736626	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185737015	Marionette	INFO	Listening on port 56991
+WebDriver BiDi listening on ws://127.0.0.1:56986
+Read port: 56991
+1704185737235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56986/devtools/browser/d623a10c-1dd7-425c-aff2-a60b920e8e90
+2024-01-02 16:55:41.179 firefox-bin[10769:224715] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 922))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:922:29)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Could not get the list of font families" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450951/pagestyle21, type getUsedFontFaces failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetUsedFontFamilies/</<@resource://devtools/client/inspector/rules/models/element-style.js:203:46\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185766671	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185803714	geckodriver	INFO	Listening on 127.0.0.1:57111
+1704185804229	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileWaAG9W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185805675	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185806049	Marionette	INFO	Listening on port 57118
+WebDriver BiDi listening on ws://127.0.0.1:57112
+Read port: 57118
+1704185806297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57112/devtools/browser/a0170902-9ad5-4da9-b37e-646e300dd519
+2024-01-02 16:56:50.646 firefox-bin[10833:226758] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185835714	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185899829	geckodriver	INFO	Listening on 127.0.0.1:57240
+1704185900346	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileZLBvcg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185902541	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185903154	Marionette	INFO	Listening on port 57246
+Read port: 57246
+WebDriver BiDi listening on ws://127.0.0.1:57241
+1704185903233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57241/devtools/browser/0061b756-c35c-4589-966e-b6030e6841ee
+2024-01-02 16:58:27.127 firefox-bin[10960:229927] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 922))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450951/pagestyle21 (resource://devtools/server/actors/page-style.js:922:29)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185932592	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704185967366	geckodriver	INFO	Listening on 127.0.0.1:57380
+1704185967883	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileVFUVaw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704185969952	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704185970355	Marionette	INFO	Listening on port 57388
+WebDriver BiDi listening on ws://127.0.0.1:57381
+Read port: 57388
+1704185970488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57381/devtools/browser/7791b760-034d-4ac5-9c96-867207249bf8
+2024-01-02 16:59:38.052 firefox-bin[11039:232668] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704185999982	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704186450959	geckodriver	INFO	Listening on 127.0.0.1:57638
+1704186451475	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile7USCnZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704186453820	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704186454439	Marionette	INFO	Listening on port 57644
+WebDriver BiDi listening on ws://127.0.0.1:57639
+Read port: 57644
+1704186454866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57639/devtools/browser/7eca21bd-d10c-4464-a58a-59f5a0c9425b
+2024-01-02 17:07:38.990 firefox-bin[11358:242703] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704186483879	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704186578205	Marionette	INFO	Stopped listening on port 57644
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1704186585126	geckodriver	INFO	Listening on 127.0.0.1:57717
+1704186585643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilef8JGzT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704186587527	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704186587977	Marionette	INFO	Listening on port 57724
+WebDriver BiDi listening on ws://127.0.0.1:57718
+Read port: 57724
+1704186588225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57718/devtools/browser/f5511995-a086-4dcd-8e24-7daae264676a
+2024-01-02 17:09:51.973 firefox-bin[11458:246083] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704186617566	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704186645770	Marionette	INFO	Stopped listening on port 57724
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+console.error: services.settings: 
+  main/search-config-v2 Signature failed again TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:229:26
+
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+JavaScript warning: https://k12wx.xzxyun.com/workflow/js/@vue/@vue.fe79fef5.js, line 1: Script terminated by timeout at:
+set value@https://k12wx.xzxyun.com/workflow/js/@vue/@vue.fe79fef5.js:1:12290
+setup/<@https://k12wx.xzxyun.com/workflow/js/element-plus/element-plus.d5f29c25.js:1:47595
+
+1704186670549	Marionette	INFO	Stopped listening on port 57388
+1704186675466	Marionette	INFO	Stopped listening on port 57246
+1704186678026	Marionette	INFO	Stopped listening on port 57118
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186681172	Marionette	INFO	Stopped listening on port 56991
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186681882	Marionette	INFO	Stopped listening on port 56859
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186682403	Marionette	INFO	Stopped listening on port 56729
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186683039	Marionette	INFO	Stopped listening on port 56533
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186683582	Marionette	INFO	Stopped listening on port 56360
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://global/content/globalOverlay.js, line 96: uncaught exception: undefined
+1704186684136	Marionette	INFO	Stopped listening on port 56201
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186684587	Marionette	INFO	Stopped listening on port 55990
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://global/content/globalOverlay.js, line 96: uncaught exception: undefined
+1704186686644	Marionette	INFO	Stopped listening on port 55892
+1704186687176	Marionette	INFO	Stopped listening on port 55508
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186687769	Marionette	INFO	Stopped listening on port 55361
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186688342	Marionette	INFO	Stopped listening on port 55167
+1704186688733	Marionette	INFO	Stopped listening on port 55043
+1704186689349	Marionette	INFO	Stopped listening on port 53762
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186691255	Marionette	INFO	Stopped listening on port 53617
+JavaScript error: chrome://global/content/globalOverlay.js, line 96: uncaught exception: undefined
+1704186691781	Marionette	INFO	Stopped listening on port 53486
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186692354	Marionette	INFO	Stopped listening on port 53367
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186692971	Marionette	INFO	Stopped listening on port 53091
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186694796	Marionette	INFO	Stopped listening on port 52960
+1704186695241	Marionette	INFO	Stopped listening on port 52840
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186695680	Marionette	INFO	Stopped listening on port 51980
+1704186696170	Marionette	INFO	Stopped listening on port 51802
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186697075	Marionette	INFO	Stopped listening on port 51657
+1704186697750	Marionette	INFO	Stopped listening on port 51374
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1704186698638	Marionette	INFO	Stopped listening on port 50613
+1704186705289	geckodriver	INFO	Listening on 127.0.0.1:57799
+1704186705803	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile6Pig86"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704186707187	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704186707512	Marionette	INFO	Listening on port 57805
+WebDriver BiDi listening on ws://127.0.0.1:57800
+Read port: 57805
+1704186707738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57800/devtools/browser/3f785c22-89f0-4249-85c2-9c0d2fa48093
+2024-01-02 17:11:50.876 firefox-bin[11538:250216] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js, line 485: Script terminated by timeout at:
+@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:485:1
+@https://fs-im-kefu.7moor-fs1.com/im/f5f042b0-6cdc-11ea-b9e9-11f72acca0b4/2020-06-05%2011:44:42/1591328682791/m7AllQuote.js:485:2
+
+JavaScript error: https://ykf-webchat.7moor.com/javascripts/distpicker.js, line 1: ReferenceError: jQuery is not defined
+1704186734675	Marionette	INFO	Stopped listening on port 57805
+JavaScript error: https://ykf-webchat.7moor.com/view/moor_chat.html?v=20231226&clientId=100000000648&urlTitle=%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0&fromUrl=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2F&serviceStates=1&accessId=2ef0b3b0-4308-11ee-98c8-c503d4f0b62f&styleColor=19CAA6&peers=%5B%5D&sessionLastToPeer=&otherParams=&seoSource=%E7%AB%99%E5%86%85&seoKeywords=&xstKeywords=&companyName=&seoUrl=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2Fjump%3Fcode%3D89596279768e4a369b9ed4efe7a23651%26fromType%3Dhome&language=zh-CN&href=https%3A%2F%2Fk12wx.xzxyun.com%2Fcampus-mng%2F&priority=false&showAnnexUrl=false&unionAccessId=undefined&hideImgUpload=false&hideFileUpload=false&accessAfterMessage=undefined&customColor=undefined&videoDownloadBtn=false, line 5: ReferenceError: $ is not defined
+1704186744376	geckodriver	INFO	Listening on 127.0.0.1:57919
+1704186744888	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileIsFWWJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704186745337	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704186745593	Marionette	INFO	Listening on port 57927
+WebDriver BiDi listening on ws://127.0.0.1:57920
+Read port: 57927
+1704186745733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57920/devtools/browser/8e3a1405-a8d3-4318-b678-b418e1e1d79d
+2024-01-02 17:12:28.434 firefox-bin[11599:251691] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704186775378	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704187013433	geckodriver	INFO	Listening on 127.0.0.1:58581
+1704187013951	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileNkqUIg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187014435	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187014739	Marionette	INFO	Listening on port 58589
+WebDriver BiDi listening on ws://127.0.0.1:58582
+Read port: 58589
+1704187014903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58582/devtools/browser/2eb1fe45-9c2e-4b9e-a561-b36c04fe6ef8
+2024-01-02 17:16:57.875 firefox-bin[11777:256042] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704187035323	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1704187044470	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704187057388	Marionette	INFO	Stopped listening on port 58589
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/ms-images getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1704187061991	geckodriver	INFO	Listening on 127.0.0.1:58797
+1704187062510	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileyeMGBR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187062993	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187063254	Marionette	INFO	Listening on port 58805
+WebDriver BiDi listening on ws://127.0.0.1:58798
+Read port: 58805
+1704187063444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58798/devtools/browser/eb494b33-356b-4359-9d49-4e36ab602214
+2024-01-02 17:17:46.625 firefox-bin[11828:257586] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704187076071	Marionette	INFO	Stopped listening on port 58805
+1704187079490	geckodriver	INFO	Listening on 127.0.0.1:58912
+1704187080008	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile6SXawd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187080484	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187080739	Marionette	INFO	Listening on port 58920
+WebDriver BiDi listening on ws://127.0.0.1:58913
+Read port: 58920
+1704187080931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58913/devtools/browser/a3f78797-6fce-42dd-9efc-0026a145a0a5
+2024-01-02 17:18:03.503 firefox-bin[11858:258611] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704187089638	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1704187110519	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704187606935	geckodriver	INFO	Listening on 127.0.0.1:60142
+1704187607457	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilej1NyDB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187608028	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187608282	Marionette	INFO	Listening on port 60150
+WebDriver BiDi listening on ws://127.0.0.1:60143
+Read port: 60150
+1704187608341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60143/devtools/browser/2e26c855-98e3-4faa-b2a9-e2ab3fec1cf5
+2024-01-02 17:26:51.526 firefox-bin[12199:265813] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704187638063	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704187686001	geckodriver	INFO	Listening on 127.0.0.1:60421
+1704187686513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileDRuxCJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187687028	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187687297	Marionette	INFO	Listening on port 60429
+WebDriver BiDi listening on ws://127.0.0.1:60422
+Read port: 60429
+1704187687464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60422/devtools/browser/658f5e8d-41e8-4b95-95f4-1ee072885b45
+2024-01-02 17:28:11.151 firefox-bin[12240:267600] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704187700468	geckodriver	INFO	Listening on 127.0.0.1:60570
+1704187700965	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileuZFzL6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187701503	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187701764	Marionette	INFO	Listening on port 60578
+WebDriver BiDi listening on ws://127.0.0.1:60571
+Read port: 60578
+1704187701924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60571/devtools/browser/0a56c292-b7c2-4f44-8a63-700daee2cd15
+2024-01-02 17:28:24.899 firefox-bin[12262:268417] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704187711166	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1704187717057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1704187723500	Marionette	INFO	Stopped listening on port 60578
+1704187724054	Marionette	INFO	Stopped listening on port 60429
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/translations-wasm pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:924:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: (new Error("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1704187724625	Marionette	INFO	Stopped listening on port 60150
+1704187724879	Marionette	INFO	Stopped listening on port 58920
+1704187725949	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1704187725995	geckodriver	INFO	Listening on 127.0.0.1:60731
+1704187726505	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiletpzNsB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187727062	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187727235	Marionette	INFO	Listening on port 60739
+WebDriver BiDi listening on ws://127.0.0.1:60732
+Read port: 60739
+1704187727441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: aWindow is null
+1704187728297	Marionette	INFO	Stopped listening on port 60739
+1704187728306	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: "Could not load engine baidu@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for baidu@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine bing@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for bing@search.mozilla.org after shutdown was already granted"
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 645: TypeError: this.browsingContext is null
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 645: TypeError: this.browsingContext is null
+console.error: "Could not load engine google@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for google@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine wikipedia@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for wikipedia@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine ddg@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for ddg@search.mozilla.org after shutdown was already granted"
+console.error: SearchService: "Could not find a replacement default engine."
+console.error: SearchService: "#init: failure initializing search:" ({})
+console.error: ({}) "Search Service could not get the ignore list."
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1379: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1379: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1379: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1277: Error: SearchService failed while it was initializing.
+1704187728385	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 150: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1277}]'[JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1277}]' when calling method: [nsISearchService::defaultEngine]
+console.error: ({})
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.sys.mjs", 277))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Extension shutdown: addons-search-detection@mozilla.com","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2668,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2668","resource://gre/modules/AsyncShutdown.sys.mjs:observe:573","chrome://global/content/globalOverlay.js:goQuitApplication:96","chrome://browser/content/hiddenWindowMac.xhtml:oncommand:1"]}] Barrier: profile-change-teardown
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiletpzNsB/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5439: TypeError: request.channel is null
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new NotFoundError("Could not get children of file(/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiletpzNsB/crashes/events) because it does not exist", (void 0), 573))
+1704187787150	geckodriver	INFO	Listening on 127.0.0.1:60865
+1704187787668	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile7HbQFH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187788115	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187788371	Marionette	INFO	Listening on port 60873
+WebDriver BiDi listening on ws://127.0.0.1:60866
+Read port: 60873
+1704187788530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+FATAL ERROR: AsyncShutdown timeout in profile-change-teardown Conditions: [{"name":"Extension shutdown: addons-search-detection@mozilla.com","state":{"state":"Startup: Run manifest, asyncEmitManifestEntry(\"background\")"},"filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2668,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup/<:2668","resource://gre/modules/AsyncShutdown.sys.mjs:observe:573","chrome://global/content/globalOverlay.js:goQuitApplication:96","chrome://browser/content/hiddenWindowMac.xhtml:oncommand:1"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 12302, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2668
+** Unknown exception behavior: 0
+DevTools listening on ws://127.0.0.1:60866/devtools/browser/a82cf0fe-92a5-4400-b1cf-8d42950fce09
+2024-01-02 17:29:51.286 firefox-bin[12351:270789] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- AsyncShutdown Spinner for profile-change-teardown
+Exiting due to channel error.
+1704187807956	Marionette	INFO	Stopped listening on port 60873
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1704187919061	geckodriver	INFO	Listening on 127.0.0.1:61189
+1704187919578	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofilePJm6pB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704187920035	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704187920297	Marionette	INFO	Listening on port 61197
+WebDriver BiDi listening on ws://127.0.0.1:61190
+Read port: 61197
+1704187920350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61190/devtools/browser/c4535530-f634-4e7c-8a75-c72b81490b5e
+2024-01-02 17:32:03.888 firefox-bin[12446:273304] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704187950067	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704268681857	geckodriver	INFO	Listening on 127.0.0.1:63857
+1704268682378	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofile7tbvaw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704268683492	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704268683830	Marionette	INFO	Listening on port 63866
+WebDriver BiDi listening on ws://127.0.0.1:63858
+Read port: 63866
+1704268684094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63858/devtools/browser/34104052-19d3-47ac-934e-e5123c74524a
+2024-01-03 15:58:07.558 firefox-bin[18126:391759] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704268713531	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704268775268	geckodriver	INFO	Listening on 127.0.0.1:64047
+1704268775773	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofiles8PqUa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704268776291	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704268776543	Marionette	INFO	Listening on port 64054
+WebDriver BiDi listening on ws://127.0.0.1:64048
+Read port: 64054
+1704268776741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64048/devtools/browser/1e4ba26f-7838-4102-a486-9b1ff06beb10
+2024-01-03 15:59:40.569 firefox-bin[18181:393822] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704268805673	geckodriver	INFO	Listening on 127.0.0.1:64180
+1704268806185	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileJn9fw4"
+1704268806311	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704268806680	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704268806942	Marionette	INFO	Listening on port 64188
+WebDriver BiDi listening on ws://127.0.0.1:64181
+Read port: 64188
+1704268807141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64181/devtools/browser/b3f616ce-ce84-4604-bdb2-49d6dbb3d355
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+2024-01-03 16:00:10.306 firefox-bin[18207:394896] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+1704268836723	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704268840792	geckodriver	INFO	Listening on 127.0.0.1:64317
+1704268841296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileAjoIwY"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704268841407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704268841814	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704268842077	Marionette	INFO	Listening on port 64327
+WebDriver BiDi listening on ws://127.0.0.1:64318
+Read port: 64327
+1704268842281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64318/devtools/browser/bf69c5e6-b4b9-40c8-a7c2-5126811e8bd4
+2024-01-03 16:00:46.115 firefox-bin[18230:395916] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704268858083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1704268871853	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1704268891166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+1704268930360	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 已存在相同的角色名称
+1704269012852	Marionette	INFO	Stopped listening on port 61197
+JavaScript warning: https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js, line 7: Script terminated by timeout at:
+nt@https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js:7:11616
+n@https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js:7:13456
+Jr/o._wrapper@https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js:7:51712
+
+1704269045334	Marionette	INFO	Stopped listening on port 64327
+1704269046784	Marionette	INFO	Stopped listening on port 64188
+1704269052102	geckodriver	INFO	Listening on 127.0.0.1:64694
+1704269052619	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mm/c6b0sbrn1394tsvfwp362cg00000gn/T/rust_mozprofileeTkmqB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704269053113	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704269053368	Marionette	INFO	Listening on port 64702
+WebDriver BiDi listening on ws://127.0.0.1:64695
+Read port: 64702
+1704269053570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64695/devtools/browser/48d8917f-30b3-4e5e-899c-1db31c45ac18
+2024-01-03 16:04:16.518 firefox-bin[18351:399800] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1704269083147	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js, line 7: Script terminated by timeout at:
+s@https://ykf-webchat.7moor.com/javascripts/socket.io-2.3.0.js:7:7911
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://k12wx.xzxyun.com."
+JavaScript warning: https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js, line 7: Script terminated by timeout at:
+2b0e/</ri/ii.set@https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js:7:32055
+b370/128/hide/this.timeout<@https://k12wx.xzxyun.com/campus-mng/js/chunk-vendors.172c627d.js:40:198903
+
+1704272278355	Marionette	INFO	Stopped listening on port 64702
+1704272283188	Marionette	INFO	Stopped listening on port 64054
+1704272283574	Marionette	INFO	Stopped listening on port 63866
